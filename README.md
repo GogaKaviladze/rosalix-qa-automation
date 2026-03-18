@@ -12,11 +12,13 @@ This repository demonstrates a modular End-to-End (E2E) testing framework built 
 
 ## 📂 Repository Structure
 
+## 📂 Repository Structure
+```
 📦 rosalix-qa-automation
  ┣ 📂 .github/workflows
  ┃ ┗ 📜 playwright.yml    # CI/CD Pipeline Configuration
  ┣ 📂 assets
- ┃ ┗ 📜 success.png       # Result Screenshot
+ ┃ ┗ 📜 success.png       # Result Screenshot (Make sure it's success.png)
  ┣ 📂 tests
  ┃ ┣ 📜 auth.setup.ts     # Global Auth State Management
  ┃ ┣ 📜 auth.spec.ts      # Authentication Workflows
@@ -25,3 +27,4 @@ This repository demonstrates a modular End-to-End (E2E) testing framework built 
  ┃ ┗ 📜 public.spec.ts    # Public Navigation & Forms
  ┣ 📜 playwright.config.ts # Environment & Browser Config
  ┗ 📜 README.md            # Documentation
+         
