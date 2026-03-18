@@ -10,7 +10,6 @@ This repository demonstrates a modular End-to-End (E2E) testing framework built 
 
 ![Playwright Success Coverage](./assets/success.png)
 
-## 📂 Repository Structure
 
 ## 📂 Repository Structure
 ```
